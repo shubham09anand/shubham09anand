@@ -1,4 +1,4 @@
-<img style="width: 100%; height: 250px; max-width: 100%;box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); border-radius: 10px;" src="https://github.com/shubham09anand/shubham09anand/blob/main/Profile_Banner.jpeg?raw=true" />
+<img style="width: 100%; height: 250px; max-width: 100%;box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); border-radius: 10px;" src="https://github.com/shubham09anand/shubham09anand/blob/main/Profile_banner.png?raw=true" />
 
 <h3 align="center">ABOUT ME</h3>
 <hr>
