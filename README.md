@@ -3,9 +3,18 @@
 <h3 align="center">ABOUT ME</h3>
 <hr>
 <div align="center">
-Hey there! I'm SHUBHAM ANAND, a beginner web developer currently pursuing B.Tech in Computer Science Engineering at Bhilai Institute of Technology, Durg. My journey into web development started with basic HTML and CSS, but I quickly moved on to exploring PHP for backend development.💻✨ Recently, I've been into the MERN stack, learning how to work with MongoDB, Express.js, React, and Node.js. It's been exciting to see how these technologies come together to create dynamic web applications.🌐🔧
-<br><br>
-I'm always up for a challenge and love problem-solving, whether it's debugging code or brainstorming new project ideas. When I'm not coding, you can find me keeping up with tech news or collaborating with other developers.I'm eager to continue learning and growing in the world of web development.🤓💬 I'm also happy to work on group projects, collaborating with others to bring ideas to life. Let's build something awesome together!💪🚀🌟. You Can Conatct Me With username shubham09anand on most of the popular social media platform
+
+**Hey there! I'm SHUBHAM ANAND, a beginner web developer.**  
+<br>
+I started with HTML & CSS, then explored PHP for backend development. 
+<br>
+Now, I’m learning the MERN stack (MongoDB, Express.js, React, Node.js) to build web applications.   
+<br>
+Check out my web deveploment work at **[shubham09anand.in](http://shubham09anand.in)**.
+<br>
+🚀 Always open to new challenges & teamwork! Let’s build something awesome together. 
+<br>
+📌 Find me as **shubham09anand** on most social platforms.  
  </div>
  <hr>
 <div align="center">
