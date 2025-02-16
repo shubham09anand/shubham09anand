@@ -6,14 +6,14 @@
 
 **Hey there! I'm SHUBHAM ANAND, a beginner web developer.**  
 <br>
-I started with HTML & CSS, then explored PHP for backend development. 
-<br>
+I started with HTML & CSS, then explored PHP for backend development.
+<br><br>
 Now, I’m learning the MERN stack (MongoDB, Express.js, React, Node.js) to build web applications.   
 <br>
-Check out my web deveploment work at **[shubham09anand.in](http://shubham09anand.in)**.
-<br>
+Check out my web deveploment work at **[shubham09anand.in](https://shubham09anand.in)**.
+<br><br>
 🚀 Always open to new challenges & teamwork! Let’s build something awesome together. 
-<br>
+<br><br>
 📌 Find me as **shubham09anand** on most social platforms.  
  </div>
  <hr>
