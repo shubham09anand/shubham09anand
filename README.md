@@ -4,11 +4,7 @@
 <hr>
 <div align="center">
 
-**Hey there! I'm SHUBHAM ANAND, a beginner web developer.**  
-<br>
-I started with HTML & CSS, then explored PHP for backend development.
-<br><br>
-Now, I’m learning the MERN stack (MongoDB, Express.js, React, Node.js) to build web applications.   
+**Hey there! I'm SHUBHAM ANAND, a beginner web developer.**   
 <br>
 Check out my web deveploment work at **[shubham09anand.in](https://shubham09anand.in)**.
 <br><br>
