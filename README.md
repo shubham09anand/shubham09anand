@@ -39,7 +39,7 @@ I'm always up for a challenge and love problem-solving, whether it's debugging c
 <br/>
 <div align="center">
     <img titwl="html" src="https://skillicons.dev/icons?i=html,css,sass,materialui,js,tailwind,bootstrap,jquery,react" /><br>
-		<img src="https://skillicons.dev/icons?i=go,php,express,nodejs,npm" />
+		<img src="https://skillicons.dev/icons?i=go,php,express,nodejs,npm,docker" />
 	<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" style="height: 60px; width: 50px;" />
 	<br>
 		<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
